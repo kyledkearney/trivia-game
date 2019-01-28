@@ -1,0 +1,53 @@
+body { 
+	background: url(../images/linenBig.png) no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+}
+
+html {
+	/* cursor: url("https://img.icons8.com/cotton/64/000000/car.png"), auto; */
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+	color: black;
+	padding: 25px;
+	
+}
+
+.answer,
+#timer {
+	font-weight: 900;
+}
+
+#start {
+	color: black;
+}
+
+.choices {
+	text-align: center;
+	border: groove 2px black;
+	border-radius: 5%;
+	margin: 0 35%;
+}
+
+.choices:hover {
+	background-color: darkblue;
+	color: white;
+}
+
+
+
+
+img{
+    width:100%;
+    max-width:320px;
+    height:100%;
+    max-height:180px;
+}
