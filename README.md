@@ -5,7 +5,7 @@ Car Trivia game, cause I will live and die a car guy.
 
 ### About
 
-Originially built as a static site with 10 questions and a timer. It was using html, css, and Javascript. Currently working to redevelop it. My intention is to make a small project that I can obsess oer the smallest detail and make it perfect.
+Originially built as a static site with 10 questions and a timer. It was using html, css, and Javascript. Currently working to redevelop it. My intention is to make a small project that I can obsess over the smallest detail and make it perfect.
 
 ### New build list
 - Vue.js
