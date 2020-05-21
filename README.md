@@ -11,7 +11,7 @@ Originially built as a static site with 10 questions and a timer. It was using h
 - Vue.js
 - Materialize
 - SASS
-- php - backend
+- Django - backend
 - SQL Database
 
 ### To do list - MVP
